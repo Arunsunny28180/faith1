@@ -1,0 +1,14 @@
+C:\Users\tech\source\repos\bank1\obj\Debug\netcoreapp3.1\bank1.csproj.AssemblyReference.cache
+C:\Users\tech\source\repos\bank1\obj\Debug\netcoreapp3.1\bank1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tech\source\repos\bank1\obj\Debug\netcoreapp3.1\bank1.AssemblyInfoInputs.cache
+C:\Users\tech\source\repos\bank1\obj\Debug\netcoreapp3.1\bank1.AssemblyInfo.cs
+C:\Users\tech\source\repos\bank1\obj\Debug\netcoreapp3.1\bank1.csproj.CoreCompileInputs.cache
+C:\Users\tech\source\repos\bank1\bin\Debug\netcoreapp3.1\bank1.exe
+C:\Users\tech\source\repos\bank1\bin\Debug\netcoreapp3.1\bank1.deps.json
+C:\Users\tech\source\repos\bank1\bin\Debug\netcoreapp3.1\bank1.runtimeconfig.json
+C:\Users\tech\source\repos\bank1\bin\Debug\netcoreapp3.1\bank1.runtimeconfig.dev.json
+C:\Users\tech\source\repos\bank1\bin\Debug\netcoreapp3.1\bank1.dll
+C:\Users\tech\source\repos\bank1\bin\Debug\netcoreapp3.1\bank1.pdb
+C:\Users\tech\source\repos\bank1\obj\Debug\netcoreapp3.1\bank1.dll
+C:\Users\tech\source\repos\bank1\obj\Debug\netcoreapp3.1\bank1.pdb
+C:\Users\tech\source\repos\bank1\obj\Debug\netcoreapp3.1\bank1.genruntimeconfig.cache
